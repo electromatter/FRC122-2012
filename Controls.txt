@@ -1,0 +1,25 @@
+Joystick 1 - Right Joystick - Drive Joystick
+Joystick 2 - Left Joystick - Operator Joystick
+
+Arcade drive is the default drive mode.
+
+Drive Joystick Controls:
+ Buttons:
+  Trigger - Shoot
+ Axis:
+  Y Axis - Arcade Throttle/Tank Left Throttle
+  X Axis - Arcade Turning
+Operator Joystick Controls:
+ Axis:
+  Y Axis - Tank Right Throttle
+  Nub X Axis - Shooter Angle
+  Nub Y Axis - Camera Ajustment
+  Throttle - Shooter Speed
+ Buttons:
+  Trigger - Shoot
+  7 - Camera Light Toggle
+  8 - Lift Toggle
+  9 - Shooter Toggle
+  10 - Arcade Drive/Tank Drive Toggle
+  11 - Arm Up
+  12 - Arm Down
